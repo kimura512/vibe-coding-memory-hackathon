@@ -1,0 +1,6 @@
+fastapi>=0.104.0
+uvicorn>=0.24.0
+python-dotenv>=1.2.1
+git+https://github.com/NevaMind-AI/memU.git
+sqlmodel>=0.0.32
+openai>=1.0.0
